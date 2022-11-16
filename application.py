@@ -112,7 +112,7 @@ welcome = """
   </div>
   
   <div class="linksColumn"> 
-    <h2>What's Next?</h2>
+    <h2>Що нового?</h2>
     <ul>
     <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">Огляд AWS Elastic Beanstalk</a></li>
     <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/index.html?concepts.html">Концепція AWS Elastic Beanstalk</a></li>
